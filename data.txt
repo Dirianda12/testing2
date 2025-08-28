@@ -1,7 +1,0 @@
-proxy=wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy
-algo=minotaurx
-host=minotaurx.na.mine.zpool.ca
-port=7019
-username=RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu
-password=c=RVN
-threads=16
